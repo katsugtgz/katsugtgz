@@ -19,7 +19,7 @@ I build and operate AI tooling hands-on — self-hosting a multi-provider LLM pr
 
 ### Connect
 
-[GitHub](https://github.com/katsugtgz) · [LinkedIn](https://linkedin.com/in/muhammad-naufal-mahdi-58a6291a4) · [Email](mailto:053792227@ecampus.ut.ac.id)
+[GitHub](https://github.com/katsugtgz) · [LinkedIn](https://linkedin.com/in/muhammad-naufal-mahdi-58a6291a4) · [Discord](https://discord.com/users/940513195108483092) · [Email](mailto:053792227@ecampus.ut.ac.id)
 
 ---
 
