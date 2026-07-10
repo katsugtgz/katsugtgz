@@ -58,7 +58,7 @@ More work is intentionally kept private or shown as sanitized case studies.
 
 ## People whose work shaped my practice
 
-[Matt Pocock](https://github.com/mattpocock) · [Mario Zechner](https://github.com/badlogic) · [Matt Zach](https://github.com/MattZach) · [Ben Davis](https://github.com/bmdavis419) · [Theo Browne](https://github.com/t3dotgg)
+[Matt Pocock](https://github.com/mattpocock) · [Mario Zechner](https://github.com/badlogic) ([website](https://mariozechner.at/)) · [Matt Zach](https://github.com/MattZach) · [Ben Davis](https://github.com/bmdavis419) · [Theo Browne](https://github.com/t3dotgg)
 
 ## Connect
 
