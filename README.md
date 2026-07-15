@@ -1,12 +1,12 @@
 # Muhammad Naufal Mahdi · `@katsugtgz`
 
 <p align="left">
-  <strong>AI Systems & Product Engineer</strong><br>
+  <strong>Full-Stack Engineer · AI Systems</strong><br>
   Agent orchestration · AI infrastructure · fullstack products
 </p>
 
 <p align="left">
-  <a href="https://naufal-ai-portfolio.katsogtg.chatgpt.site"><img src="https://img.shields.io/badge/Portfolio-visit-f1eee7?style=flat-square&labelColor=11110f" alt="Portfolio"></a>
+  <a href="https://katsu.codes"><img src="https://img.shields.io/badge/katsu.codes-visit-f1eee7?style=flat-square&labelColor=11110f" alt="Portfolio"></a>
   <a href="https://github.com/katsugtgz"><img src="https://img.shields.io/badge/GitHub-@katsugtgz-f1eee7?style=flat-square&labelColor=11110f" alt="GitHub"></a>
   <a href="https://discord.com/users/940513195108483092"><img src="https://img.shields.io/badge/Discord-connect-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
@@ -22,24 +22,23 @@ I build AI-native tools and products by connecting the whole system: model, inte
 
 ## Proof of practice
 
-| Signal | Snapshot |
+| Signal | Verified floor |
 | --- | --- |
 | AI-coding usage | **17.1B+ tokens** across **15K+ local sessions** |
-| Consistency | **51-day** cross-tool streak |
-| Voice workflow | **103 WPM**, top 2% in Wispr Flow |
-| GitHub activity | **372 authored commits** linked to my current identity |
+| Consistency | **50+ day** cross-tool streak |
+| GitHub activity | **370+ authored commits** linked to my current identity |
 
-> Metrics are snapshots from July 2026. Tokscale, 9Router, and other tool telemetry overlap; they are not additive.
+> These are floor values from a July 2026 verification; the live numbers keep growing. Current evidence lives at [katsu.codes](https://katsu.codes). Tokscale, 9Router, and other tool telemetry overlap; they are not additive.
 
 ## Selected builds
 
-- **[Bigswap v2](https://github.com/katsugtgz/bigswap-v2)** — Go/EVM event pipeline with RPC resilience, scoring, Telegram alerts, and operational metrics.
-- **[EQ-Math](https://github.com/katsugtgz/cobalagi31mar)** — education product exploring Gemini-powered learning flows, retrieval design, and production hardening.
-- **[Spot Signal Lab](https://github.com/katsugtgz/spot-signal-lab)** — deterministic, paper-only research automation with Hermes cron jobs and SQLite FTS memory.
-- **[Pi Vision](https://github.com/katsugtgz/pi-vision)** — gives vision-less coding agents an image-understanding tool through a thin wrapper.
-- **[Migrate](https://github.com/katsugtgz/migrate)** — scroll-driven 3D portfolio experience built for a friend with Next.js, Motion, Lenis, and R3F.
+- **[EQ-Math](https://katsu.codes/work/eq-math)** — deployed Indonesian math-learning product with role-based flows, strict TypeScript, SQLite, security hardening, and CI; full case study at the link.
+- **Bigswap v2** — Go/EVM event pipeline with RPC resilience, scoring, Telegram alerts, and operational metrics.
+- **Spot Signal Lab** — deterministic, paper-only research automation with Hermes cron jobs and SQLite FTS memory.
+- **Pi Vision** — gives vision-less coding agents an image-understanding tool through a thin wrapper.
+- **Migrate** — scroll-driven 3D portfolio experience built for a friend with Next.js, Motion, Lenis, and R3F.
 
-More work is intentionally kept private or shown as sanitized case studies.
+These repositories are private by design; scope is shown here and evidence is published as sanitized case studies on [katsu.codes](https://katsu.codes).
 
 ## Stack
 
@@ -58,10 +57,10 @@ More work is intentionally kept private or shown as sanitized case studies.
 
 ## People whose work shaped my practice
 
-[Matt Pocock](https://github.com/mattpocock) · [Mario Zechner](https://github.com/badlogic) ([website](https://mariozechner.at/)) · [Matt Zach](https://github.com/MattZach) · [Ben Davis](https://github.com/bmdavis419) · [Theo Browne](https://github.com/t3dotgg)
+[Matt Pocock](https://github.com/mattpocock) · [Mario Zechner](https://github.com/badlogic) ([website](https://mariozechner.at/)) · [Ben Davis](https://github.com/bmdavis419) · [Theo Browne](https://github.com/t3dotgg)
 
 ## Connect
 
-[Portfolio](https://naufal-ai-portfolio.katsogtg.chatgpt.site) · [LinkedIn](https://linkedin.com/in/muhammad-naufal-mahdi-58a6291a4) · [Discord](https://discord.com/users/940513195108483092) · [Email](mailto:053792227@ecampus.ut.ac.id)
+[katsu.codes](https://katsu.codes) · [LinkedIn](https://linkedin.com/in/muhammad-naufal-mahdi-58a6291a4) · [Discord](https://discord.com/users/940513195108483092) · [Email](mailto:hello@katsu.codes)
 
-<sub>Building in public where useful. Keeping private work private where necessary.</sub>
+<sub>Building in public where useful. Keeping private work private where necessary. Boiling the ocean.</sub>
