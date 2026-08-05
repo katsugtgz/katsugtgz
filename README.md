@@ -11,13 +11,13 @@
   <a href="https://discord.com/users/940513195108483092"><img src="https://img.shields.io/badge/Discord-connect-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
-I build AI-native tools and products by connecting the whole system: model, interface, automation, guardrails, and the person using it. Based in Surabaya, Indonesia. Open to remote junior/associate roles, paid internships, and thoughtful collaborations.
+I build AI-native tools and products by connecting the whole system: the model, the interface, automation, guardrails, and the person using it. I'm based in Surabaya, Indonesia, and open to remote junior or associate roles, paid internships, and collaborations.
 
 ## What I am exploring
 
 - Agent orchestration with role-based subagents, ownership, audit gates, and constrained permissions
 - AI infrastructure: model routing, provider fallbacks, telemetry, and local-first workflows
-- Voice-to-structure workflows: turning complete mental models into executable AI instructions
+- Voice-to-structure workflows: turning mental models into executable AI instructions
 - Fullstack products with TypeScript, Go, Python, Next.js, and pragmatic data layers
 
 ## Proof of practice
@@ -28,17 +28,17 @@ I build AI-native tools and products by connecting the whole system: model, inte
 | Consistency | **50+ day** cross-tool streak |
 | GitHub activity | **370+ authored commits** linked to my current identity |
 
-> These are floor values from a July 2026 verification; the live numbers keep growing. Current evidence lives at [katsu.codes](https://katsu.codes). Tokscale, 9Router, and other tool telemetry overlap; they are not additive.
+> These are floor values from a July 2026 verification, and still growing. Current evidence lives at [katsu.codes](https://katsu.codes). Tokscale, 9Router, and other tool telemetry overlap, so they are not additive.
 
 ## Selected builds
 
-- **[EQ-Math](https://katsu.codes/work/eq-math)** — deployed Indonesian math-learning product with role-based flows, strict TypeScript, SQLite, security hardening, and CI; full case study at the link.
-- **Bigswap v2** — Go/EVM event pipeline with RPC resilience, scoring, Telegram alerts, and operational metrics.
-- **Spot Signal Lab** — deterministic, paper-only research automation with Hermes cron jobs and SQLite FTS memory.
-- **Pi Vision** — gives vision-less coding agents an image-understanding tool through a thin wrapper.
-- **Migrate** — scroll-driven 3D portfolio experience built for a friend with Next.js, Motion, Lenis, and R3F.
+- **[EQ-Math](https://katsu.codes/work/eq-math)**: a deployed Indonesian math-learning product with role-based flows, strict TypeScript, SQLite, security hardening, and CI. Full case study at the link.
+- **Bigswap v2**: a Go and EVM event pipeline with RPC resilience, scoring, Telegram alerts, and operational metrics.
+- **Spot Signal Lab**: deterministic, paper-only research automation with Hermes cron jobs and SQLite FTS memory.
+- **Pi Vision**: a thin wrapper that gives vision-less coding agents an image-understanding tool.
+- **Migrate**: a scroll-driven 3D portfolio experience I built for a friend using Next.js, Motion, Lenis, and R3F.
 
-These repositories are private by design; scope is shown here and evidence is published as sanitized case studies on [katsu.codes](https://katsu.codes).
+These repositories are private; scope is shown here, and evidence is published as sanitized case studies on [katsu.codes](https://katsu.codes).
 
 ## Stack
 
